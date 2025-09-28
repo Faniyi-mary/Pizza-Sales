@@ -1,0 +1,1 @@
+## This Analysis was based on pizza sales in a  pizza place, including the time, date of each order served and  additional information on the type of pizza, the ingredient used, the quantity and price.
